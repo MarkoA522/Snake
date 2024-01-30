@@ -1,0 +1,1 @@
+Jednostavna igrica Snake koja je napravljena u javi prema istoimenoj popularnoj igrici. Koristeci kretanja gore, dole, levo i desno pokusaj da pojedes sto vise jabuka pre nego sto udaris u zid ili sebi ugrizes rep :)
